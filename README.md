@@ -35,5 +35,3 @@ DELETE /tasks/{id}
 Server runs at:
 http://localhost:8080
 
-Built as part of my backend development learning journey.
-
